@@ -7,6 +7,6 @@
 
 [函館高専のHP](https://www.hakodate-ct.ac.jp/)
 
-[最新情報まとめ(test.mdに飛びます)](./test.html) 
+[最新情報まとめ(test.mdに飛びます)](./test.md) 
 
 ![オンライン授業を受けている様子](./picture_online.png  "ポップアップ文字") 
