@@ -6,3 +6,5 @@
 3. 遠隔HRの実施　~7/21(火)
 
 [最新情報はこちら](https://www.hakodate-ct.ac.jp/enrollment/risk)
+
+[index.mdに戻る](./index.md) 
